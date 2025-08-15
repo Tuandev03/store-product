@@ -1,0 +1,10 @@
+
+.ant-tabs-left >.ant-tabs-nav .ant-tabs-tab {
+  padding: 0 ;
+}
+.tagHeading {
+display: -webkit-box;
+-webkit-line-clamp: var(--line-clamp,1);
+-webkit-box-orient: vertical;
+overflow: hidden;
+}

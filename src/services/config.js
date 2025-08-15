@@ -1,8 +1,8 @@
-import axios from 'axios';
+import axios from "axios";
 export const http = axios.create({
-  baseURL: '``',
-  headers: {
- 
-  },
+  baseURL: "https://api.escuelajs.co/api/v1",
+  // headers: {
+
+  // },
   timeout: 30000,
 });

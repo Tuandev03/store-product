@@ -1,11 +1,7 @@
-
+import "./HomePage.scss";
 
 const Homepage = () => {
-  return (
-    <div>
-    <h1>hehe</h1>
-    </div>
-  );
+  return <div className="Homepage"></div>;
 };
 
 export default Homepage;
